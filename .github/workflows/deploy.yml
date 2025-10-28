@@ -7,5 +7,5 @@ on:
       - 'src/**'
       - '.github/workflows'
       - 'Dockerfile'
-
+      - 'readme.md'
 jobs:
