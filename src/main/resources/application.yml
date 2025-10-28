@@ -1,0 +1,5 @@
+spring :
+  application :
+    name : SbS3Exception
+  config:
+    import: "optional:classpath:application-secret.yml"  # 없으면 무시
